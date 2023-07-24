@@ -1,0 +1,16 @@
+# OS Genertated files
+.DS_Store
+Thumbs.db
+
+# Editor-specific settings
+.idea/
+.vscode/
+
+# Debug logs and build tools 
+*.logs
+/build/
+/dist/
+/node_modules/
+
+# Sensitive data im assuming? 
+.env*
